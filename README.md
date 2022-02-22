@@ -1,3 +1,3 @@
 # Landscape-Painting-Classification
-Using ML to classify Chinese Landscape Paintings
-<p> hello </p>
+<h1> Using ML to classify Chinese Landscape Paintings </h1>
+<p>  </p>
