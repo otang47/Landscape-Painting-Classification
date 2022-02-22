@@ -25,7 +25,7 @@ From a dataset containing images of Song and Ming Dynastry landscape paintings, 
 <b>3. Data exploration and data cleaning: </b>
 <div>The dataset contains information about 50 painters, more than 8000 images of paintings,  their genre and is classified per painter.</div>
 
-![](https://otang47.github.io/Landscape-Painting-Classification/ming vs song-01.png?raw=true)
+![](https://otang47.github.io/Landscape-Painting-Classification/ming_vs_song.png?raw=true)
 
 * Ranking painters per number of paintings 
 <div>On the 50 represented painters, the 3 painters with the most paintings in this dataset are Vincent Van Gogh, Edgar Degas and Pablo Picasso, all of them having more than 400 paintings. </div>
