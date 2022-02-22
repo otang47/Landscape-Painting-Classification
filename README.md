@@ -1,10 +1,10 @@
 # Classifying Ancient Chinese Landscape Painting
 
-This project was done by Olivia Tang and Rose Williams for the University's of Pennsylvania's CIS 170: Computer Vision Class. 
+This project was done by Olivia Tang and Rose Williams for the University of Pennsylvania's CIS 170: Computer Vision Class. 
 
 
 ## Overview
-From a dataset containing images of Song and Ming Dynastry landscape paintings, the goal is to create a machine learning model that will correctly label their chronological origin.
+From a dataset containing images of Song and Ming Dynasty landscape paintings, the goal is to create a machine learning model that will correctly label their chronological origin.
 
 ## Process followed
 
@@ -24,7 +24,7 @@ From a dataset containing images of Song and Ming Dynastry landscape paintings, 
 
 
 <b>3. Data exploration and data cleaning: </b>
-<div>The dataset contains information about Musuems and Educational instutions around the world to gather around 800 images of paintings, 400 for both the Song and Ming dynasty.</div>
+<div>The dataset contains information about Museums and Educational institutions around the world to gather around 800 images of paintings, 400 for both the Song and Ming dynasties.</div>
 
   ![ming_vs_song](https://user-images.githubusercontent.com/78753719/155208873-76d55264-528a-4899-b0dd-684b0d2a0799.png)
   
