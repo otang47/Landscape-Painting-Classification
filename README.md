@@ -21,12 +21,13 @@ From a dataset containing images of Song and Ming Dynastry landscape paintings, 
 ### Steps
 <b>1. Data collection</b>
 <p>Dataset imported from : https://www.artstor.org/</p>
-  
+
+
 <b>3. Data exploration and data cleaning: </b>
 <div>The dataset contains information about 50 painters, more than 8000 images of paintings,  their genre and is classified per painter.</div>
 
-![](https://otang47.github.io/Landscape-Painting-Classification/Media/ming_vs_song.png?raw=true)
-
+  ![ming_vs_song](https://user-images.githubusercontent.com/78753719/155208873-76d55264-528a-4899-b0dd-684b0d2a0799.png)
+  
 * Ranking painters per number of paintings 
 <div>On the 50 represented painters, the 3 painters with the most paintings in this dataset are Vincent Van Gogh, Edgar Degas and Pablo Picasso, all of them having more than 400 paintings. </div>
 
