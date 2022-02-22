@@ -1,11 +1,10 @@
 # Classifying Ancient Chinese Landscape Painting
-Classifying images of Song and Ming paintings using neural networks and identifying which period they were created.
 
-This project was done my Olivia Tang and Rose Williams for the University's of Penn
+This project was done my Olivia Tang and Rose Williams for the University's of Pennsylvania's CIS 170: Computer Vision Class. 
 
 
 ## Overview
-From a dataset containing images of paintings, the goal is to create a machine learning model that will identify their genre (e.g. impressionism). 
+From a dataset containing images of Song and Ming Dynastry landscape paintings, the goal is to create a machine learning model that will correctly label their chronological origin.
 
 ## Process followed
 
@@ -21,7 +20,7 @@ From a dataset containing images of paintings, the goal is to create a machine l
 
 ### Steps
 <b>1. Data collection</b>
-<p>Dataset imported from : https://www.kaggle.com/ikarus777/best-artworks-of-all-time</p>
+<p>Dataset imported from : https://www.artstor.org/</p>
   
 <b>3. Data exploration and data cleaning: </b>
 <div>The dataset contains information about 50 painters, more than 8000 images of paintings,  their genre and is classified per painter.</div>
