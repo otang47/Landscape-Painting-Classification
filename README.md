@@ -24,7 +24,7 @@ From a dataset containing images of Song and Ming Dynastry landscape paintings, 
 
 
 <b>3. Data exploration and data cleaning: </b>
-<div>The dataset contains information about 50 painters, more than 8000 images of paintings,  their genre and is classified per painter.</div>
+<div>The dataset contains information about Musuems and Educational instutions around the world to gather around 800 images of paintings, 400 for both the Song and Ming dynasty.</div>
 
   ![ming_vs_song](https://user-images.githubusercontent.com/78753719/155208873-76d55264-528a-4899-b0dd-684b0d2a0799.png)
   
