@@ -28,7 +28,7 @@ From a dataset containing images of Song and Ming Dynastry landscape paintings, 
 
   ![ming_vs_song](https://user-images.githubusercontent.com/78753719/155208873-76d55264-528a-4899-b0dd-684b0d2a0799.png)
   
-* Ranking painters per number of paintings 
+<!-- * Ranking painters per number of paintings 
 <div>On the 50 represented painters, the 3 painters with the most paintings in this dataset are Vincent Van Gogh, Edgar Degas and Pablo Picasso, all of them having more than 400 paintings. </div>
 
 ![](https://github.com/Camillelib/Art_Classifying_Project/blob/master/Media/3.%20Painters.png?raw=true)
@@ -78,10 +78,10 @@ A few improvements were made for the final model:
   
   * Finally, parameters from the keras.Sequential model were modified, including: adding layers, modifying parameters, and adding a validation split. 
   
-![](https://github.com/Camillelib/Art_Classifying_Project/blob/master/Media/10.%20Model%203%20summary.png?raw=true)
+![](https://github.com/Camillelib/Art_Classifying_Project/blob/master/Media/10.%20Model%203%20summary.png?raw=true) -->
 
 ## Results
-The result of this last model were improved, with 57% accuracy rate. 
+<!-- The result of this last model were improved, with 57% accuracy rate. 
 
 ![](https://github.com/Camillelib/Art_Classifying_Project/blob/master/Media/11.%20Model%203%20results.png?raw=true)
 
@@ -89,16 +89,16 @@ The result of this last model were improved, with 57% accuracy rate.
 
 <div>Test:</div>
 
-[![Image](/Media/13.Youtube_video.png)](https://www.youtube.com/watch?v=RbJoAtRr6hY&feature=youtu.be)
+[![Image](/Media/13.Youtube_video.png)](https://www.youtube.com/watch?v=RbJoAtRr6hY&feature=youtu.be) -->
 
 
 ## Conclusion
-Learnings:
+<!-- Learnings:
 * How to work with images in data analysis
 * How to build neural network for image classification
 
 Future improvements:
 * Add  images,  painters,  new genres
 * Work on a new dataset where images are already classified per genre (and not painters)
-* Test other machine learning models on this dataset
+* Test other machine learning models on this dataset -->
 
