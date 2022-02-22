@@ -3,9 +3,6 @@ Classifying images of Song and Ming paintings using neural networks and identify
 
 This project was done my Olivia Tang and Rose Williams for the University's of Penn
 
-The presentation can be accessed here:
-
-[![Image](/Media/Presentation_Ironhack.png)](https://docs.google.com/presentation/d/1s2mUsGaCcwdTqDGJHlKax6a9dQOGwq8KLAL7dgJcW_w/edit?usp=sharing)
 
 ## Overview
 From a dataset containing images of paintings, the goal is to create a machine learning model that will identify their genre (e.g. impressionism). 
