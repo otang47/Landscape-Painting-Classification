@@ -1,6 +1,6 @@
 # Classifying Ancient Chinese Landscape Painting
 
-This project was done by Olivia Tang and Rose Williams for the University of Pennsylvania's CIS 170: Computer Vision Class. 
+This project was done by Olivia Tang and Rose William for the University of Pennsylvania's CIS 170: Computer Vision Class. 
 
 
 ## Overview
