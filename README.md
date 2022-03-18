@@ -28,8 +28,8 @@ From a dataset containing images of Song and Ming Dynasty landscape paintings, t
 
   ![ming_vs_song](https://user-images.githubusercontent.com/78753719/155208873-76d55264-528a-4899-b0dd-684b0d2a0799.png)
   
-# General Approach	
-Our project falls in the domain of supervised machine learning, given a Kaggle dataset of 50 famous artists and their paintings. We will firstly process our raw data, ie the full-sized images of paintings, by resizing and removing noise from the dataset. For example, some paintings are sketchwork and hence not very relevant for the purpose of this project.
+### General Approach	
+Our project falls in the domain of supervised machine learning, given a ArtStor dataset of 50 famous artists and their paintings. We will firstly process our raw data, ie the full-sized images of paintings, by resizing and removing noise from the dataset. For example, some paintings are sketchwork and hence not very relevant for the purpose of this project.
 Secondly, we will extract helpful attributes of the paintings based on observation and research on artworks.
 Meanwhile, the dataset has class imbalance problem. For example, Van Goh had 800+ paintings whereas Pollock only had 24. We will tackle this problem through some data augmentation to improve performance on the test set.
 We will train a variety of models to fit and test on the dataset which includes but is not limited to CNN. Other algorithms such as k-nearest neighbors algorithm, shift-invariant neural network may also be used to compare performance. We will then evaluate which model gives the best performance and analyse why it is the ideal model for our project.
