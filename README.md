@@ -37,6 +37,8 @@ Our network itself is based on PyTorch’s CIFAR 10 classifier. We transformed o
 The results yielded a 68% accuracy for the testing set, with 78.6% for Ming Dynasty paintings and 60% for Song Dynasty Paintings. It also yielded 88% accuracy on the training set. Given that the original dataset was roughly equal in both Song Dynasty and Ming Dynasty inputs (50.8% Song Dynasty paintings and 49.8% Ming Dynasty Paintings), this is significantly better than random chance. The difficulty of this computer-vision task and the lack of reputable data sources proved to be hurdles to accuracy. While the results are not high enough to compete with human experts, there is reasonable evidence to believe that there are discernable differences between Song and Ming Dynasty landscape paintings that can be identified by neural networks. 
 
 
+<img width="1512" alt="Screen Shot 2022-05-05 at 4 18 50 PM" src="https://user-images.githubusercontent.com/78753719/167019198-b442d5ca-e790-4e41-9639-491da2d031d7.png">
+
 
 ## Conclusion
 <!-- Learnings:
