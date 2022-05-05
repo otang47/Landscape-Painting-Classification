@@ -36,18 +36,15 @@ Our network itself is based on PyTorch’s CIFAR 10 classifier. We transformed o
 ## Results
 The results yielded a 68% accuracy for the testing set, with 78.6% for Ming Dynasty paintings and 60% for Song Dynasty Paintings. It also yielded 88% accuracy on the training set. Given that the original dataset was roughly equal in both Song Dynasty and Ming Dynasty inputs (50.8% Song Dynasty paintings and 49.8% Ming Dynasty Paintings), this is significantly better than random chance. The difficulty of this computer-vision task and the lack of reputable data sources proved to be hurdles to accuracy. While the results are not high enough to compete with human experts, there is reasonable evidence to believe that there are discernable differences between Song and Ming Dynasty landscape paintings that can be identified by neural networks. 
 
+<img width="637" alt="Screen Shot 2022-05-05 at 4 23 54 PM" src="https://user-images.githubusercontent.com/78753719/167019508-fe8db504-87e6-479a-9cfa-52abc1bdad4f.png">
+
 <img width="624" alt="Screen Shot 2022-05-05 at 2 33 54 PM" src="https://user-images.githubusercontent.com/78753719/167019242-cfe89aef-a464-4a64-9dc9-68592d5c7c5b.png">
 
 
 
-
 ## Conclusion
-<!-- Learnings:
-* How to work with images in data analysis
-* How to build neural network for image classification
+Fine-art categorization could supplement or possibly replace human labor in categorizing or authenticating artworks as digital artworks.  Machine learning has the ability to use a bigger quantity of data to categorize a broader spectrum of art much faster than a person which is especially relevant with the growth of online art auctions and art ownership that resides entirely in the digital domain like non-fungible tokens. Additionally, the automation of art classification could help art museums build out online exhibitions in which paintings are ordered in chronological progression allowing the viewer to see the continuity and change of style and form across eras. That being said, there is still great value in human interpretation that should not be thrown away especially as art historians seek to understand the cultural and social implications of stylistic changes throughout the era. More research is needed to fully harness the potential of computer vision and use it to benefit the current work of art historians and museum curators. 
 
-Future improvements:
-* Add  images,  painters,  new genres
-* Work on a new dataset where images are already classified per genre (and not painters)
-* Test other machine learning models on this dataset -->
+## Next Steps
+The next steps for the experiment would be to look at different, more advanced neural networks that are more suited for art classification purposes. Perhaps this is one of the reasons why our algorithm did not reach a high degree of accuracy to the very rudimentary nature of the network we were utilizing. It could also be beneficial to go over images that were misclassified and try and see if there is any obvious pattern to these misclassified images. The experiment could also transition to look at Chinese paintings that have a larger chronological gap between them which could potentially make it easier for the algorithm to classify them since the stylistic differences would be more significant.
 
