@@ -1,22 +1,20 @@
-# Classifying Ancient Chinese Landscape Painting
+# Chinese Landscape Painting Classification Using a Convolutional Neural Networks
+
 
 This project was done by Olivia Tang and Rose William for the University of Pennsylvania's CIS 107: Visual Culture through the Computer's Eye. 
 
 
-## Overview
-From a dataset containing images of Song and Ming Dynasty landscape paintings, the goal is to create a machine learning model that will correctly label their chronological origin.
+## Abtract
+In this project, we investigated image classification as a high-level computer vision task with implications for art history. We utilized roughly 600 photos from publicly available databases to explore if convolutional neural networks could be trained to classify pre-modern artworks into their respective eras of origin. Following are our results of using a multi-layered neural network on a large dataset of digitized images of Song and Ming Dynasty landscape paintings. 
 
-## Process followed
+## Process 
 
 ### Librairies used
-* pandas
-* numpy
-* os
-* matplotlib.pyplot
-* seaborn
-* sklearn
+* torch
+* torchvision
+* glob
 * PIL
-* keras
+* os
 
 ### Steps
 <b>1. Data collection</b>
