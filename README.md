@@ -7,6 +7,9 @@ This project was done by Olivia Tang and Rose William for the University of Penn
 ## Abtract
 In this project, we investigated image classification as a high-level computer vision task with implications for art history. We utilized roughly 600 photos from publicly available databases to explore if convolutional neural networks could be trained to classify pre-modern artworks into their respective eras of origin. Following are our results of using a multi-layered neural network on a large dataset of digitized images of Song and Ming Dynasty landscape paintings. 
 
+## Introduction
+Historically, the fine arts and their study has been confined to expert eyes who are charged with discerning their origins, era, artist, and influences.  Now, with the introduction and democratization of large digitized fine art collections into the public domain through the efforts of museums and universities, art can now be scrutinized not just through connoisseurship but as big data. Inspired by the success of Convolutional Neural Networks (CNN) in image classification projects, we used CNN to categorize our assembled large fine art datasets on Song and Ming Dynasty Chinese landscape paintings into their respective chronological origin. Our reasoning behind doing so was driven by our curiosity at what the neural network would use to discern the two eras, or if it could even discern stylistic differences perhaps imperceptible to untrained human eyes. In order to examine the capabilities of the deep model in fine-art painting classification, we trained an end-to-end deep convolutional model pulling our dataset from the publicly accessible large-scale “ArtStore” dataset comprising over 2.5 million paintings and eventually building a network with an accuracy of approximately 70%. 
+
 ## Process 
 
 ### Librairies used
