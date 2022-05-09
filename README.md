@@ -1,4 +1,4 @@
-# Chinese Landscape Painting Classification Using a Convolutional Neural Networks
+# Chinese Landscape Painting Classification Using Convolutional Neural Networks
 
 
 This project was done by Olivia Tang and Rose William for the University of Pennsylvania's CIS 107: Visual Culture through the Computer's Eye. 
